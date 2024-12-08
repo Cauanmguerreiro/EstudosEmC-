@@ -1,0 +1,14 @@
+C:\Users\cauan\Desktop\Csharp\bin\Debug\net9.0\Csharp.exe
+C:\Users\cauan\Desktop\Csharp\bin\Debug\net9.0\Csharp.deps.json
+C:\Users\cauan\Desktop\Csharp\bin\Debug\net9.0\Csharp.runtimeconfig.json
+C:\Users\cauan\Desktop\Csharp\bin\Debug\net9.0\Csharp.dll
+C:\Users\cauan\Desktop\Csharp\bin\Debug\net9.0\Csharp.pdb
+C:\Users\cauan\Desktop\Csharp\obj\Debug\net9.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Desktop\Csharp\obj\Debug\net9.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\cauan\Desktop\Csharp\obj\Debug\net9.0\Csharp.AssemblyInfo.cs
+C:\Users\cauan\Desktop\Csharp\obj\Debug\net9.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Desktop\Csharp\obj\Debug\net9.0\Csharp.dll
+C:\Users\cauan\Desktop\Csharp\obj\Debug\net9.0\refint\Csharp.dll
+C:\Users\cauan\Desktop\Csharp\obj\Debug\net9.0\Csharp.pdb
+C:\Users\cauan\Desktop\Csharp\obj\Debug\net9.0\Csharp.genruntimeconfig.cache
+C:\Users\cauan\Desktop\Csharp\obj\Debug\net9.0\ref\Csharp.dll
