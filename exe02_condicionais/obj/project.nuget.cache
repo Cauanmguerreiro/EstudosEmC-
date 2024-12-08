@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "47/yeimoxUM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cauan\\Desktop\\Csharp\\exe02_condicionais\\exe02_condicionais.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cauan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.0\\microsoft.netcore.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\cauan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\cauan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.0\\microsoft.aspnetcore.app.runtime.win-x64.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

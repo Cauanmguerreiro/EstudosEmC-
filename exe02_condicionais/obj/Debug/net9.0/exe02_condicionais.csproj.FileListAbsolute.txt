@@ -1,0 +1,15 @@
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\bin\Debug\net9.0\exe02_condicionais.exe
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\bin\Debug\net9.0\exe02_condicionais.deps.json
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\bin\Debug\net9.0\exe02_condicionais.runtimeconfig.json
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\bin\Debug\net9.0\exe02_condicionais.dll
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\bin\Debug\net9.0\exe02_condicionais.pdb
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\exe02_condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\exe02_condicionais.AssemblyInfoInputs.cache
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\exe02_condicionais.AssemblyInfo.cs
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\exe02_condicionais.csproj.CoreCompileInputs.cache
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\exe02_condicionais.sourcelink.json
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\exe02_condicionais.dll
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\refint\exe02_condicionais.dll
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\exe02_condicionais.pdb
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\exe02_condicionais.genruntimeconfig.cache
+C:\Users\cauan\Desktop\Csharp\exe02_condicionais\obj\Debug\net9.0\ref\exe02_condicionais.dll
